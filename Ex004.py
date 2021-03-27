@@ -1,6 +1,6 @@
 dig = input ('Digite Algo: ')
 print('Está em Maiusculo ? ' + str(dig.isupper()))
-print('É Alpha ? ' + str(dig.isalpha()))
+print('É Alpha ?' + str(dig.isalpha()))
 print('É Numérico ? ' + str(dig.isnumeric()))
 print('Está em Minusculo ? ' + str(dig.islower()))
 print('É Decimal ? ' + str(dig.isdecimal()))
