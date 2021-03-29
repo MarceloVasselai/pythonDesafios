@@ -1,3 +1,4 @@
+
 import math
 
 sen_a = float(input('Informe o Seno do A = '))
