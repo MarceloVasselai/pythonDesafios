@@ -1,5 +1,5 @@
 numero = input('Digite um número de 0 a 9999: ')
-numero =  str(numero).zfill(4)
+numero = str(numero).zfill(4)
 
 unidade  = numero[3:4]
 dezena  = numero[2:3]
