@@ -1,5 +1,5 @@
 velocidade = int(input('Qual a velocidade do carro: '))
-excedeu =  velocidade - 80
+excedeu = velocidade - 80
 
 if velocidade <= 80:
     print('Não há multa')
