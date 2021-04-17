@@ -18,3 +18,5 @@ while resultado != 'PERDER':
     elif (soma % 2) != 0 and pi == 'P':
         print('Você Perdeu !!! Informou o número {} e o Computador {}, totalizando {}'.format(n1,n2,n1+n2))
         resultado = 'PERDER'
+    else:
+        print('Parâmetros inválidos')
