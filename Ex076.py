@@ -6,7 +6,7 @@ lista = ('Caneta', 1.99,
          'Compasso', 2.32,
          'Transferidor', 111.99
          )
-
+print (lista)
 print ('-' * 50)
 print (f'{"LISTAGEM DE PREÇOS":^40}')
 print ('-' * 50)
